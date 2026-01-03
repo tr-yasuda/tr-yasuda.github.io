@@ -1,4 +1,4 @@
-name: check-types.yml
+name: Type Check
 on:
   pull_request:
 
